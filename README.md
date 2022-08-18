@@ -5,9 +5,9 @@ This application utilizes an Apollo server and GraphQL to allow a user to create
 
 ## Table of Contents
 1. [Installation](#installation)
-3. [Application](#application)
-4. [Screenshot](#screenshot)
-5. [Questions](#questions)
+2. [Application](#application)
+3. [Screenshot](#screenshot)
+4. [Questions](#questions)
 
 ## Installation
 `npm i` Note: You will also need to have a local instance of MongoDB installed for the app to function correctly.
