@@ -13,7 +13,7 @@ This application utilizes an Apollo server and GraphQL to allow a user to create
 `npm i` Note: You will also need to have a local instance of MongoDB installed for the app to function correctly.
 
 ## Application
-You can the application deployed at [http://book-search-mz.herokuapp.com/](http://book-search-mz.herokuapp.com/).
+You can view the application deployed at [http://book-search-mz.herokuapp.com/](http://book-search-mz.herokuapp.com/).
 
 ## Screenshot
 ![Google Books Search](/assets/images/book-search-mz.png)
